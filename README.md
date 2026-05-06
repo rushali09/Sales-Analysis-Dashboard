@@ -8,6 +8,9 @@ The dashboard helps users quickly understand which products, regions, and custom
 
 ## Dashboard Preview
 
+<img width="1218" height="671" alt="image" src="https://github.com/user-attachments/assets/13a5ca5e-4a40-4058-8ba8-f2f75255a4a0" />
+
+
 The dashboard includes key business metrics such as:
 
 - Total Sales: 1.57M
